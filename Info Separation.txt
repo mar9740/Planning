@@ -1,0 +1,34 @@
+Key Physical Information:
+	- Name
+	- Size/Figure
+	- Alignment
+	- Armor Class
+	- Hit Points
+	- Speed
+	- Base Stats
+		> Str
+		> Dex
+		> Con
+		> Int
+		> Wis
+		> Cha
+	- Senses
+	- Languages
+
+Key Combat Information:
+	- Saving Throws
+	- Skills
+	- Damage Resistances
+	- Damage Immunities
+	- Condition Immunities
+	- /// Senses
+	- Challenge Rating
+	- Experience Gained
+	- Features/Special Traits
+	- Actions
+	- ** Legendary Actions
+	
+Miscellaneous Information:
+	- /// Languages
+	- Extra Info
+
